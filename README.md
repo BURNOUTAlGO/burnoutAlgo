@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I like to code at night**
 
-- ⚡ Fun fact **sleep - code - repeat**
+- 😴 **sleep - code - repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
