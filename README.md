@@ -7,13 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java,python**
+- 👨‍🎓 Computer Science undergrad at NIET,Greater noida
+  
+- 🌱 Currently learning **Java,python**
 
-- 📫 How to reach me **thisisabhimaurya@gmail.com**
+- ⚡ **I like to code at night**
 
-- ⚡ Fun fact **I like to code at night**
+- 😴 *sleep - code - repeat*
 
-- 😴 **sleep - code - repeat**
+- 📫 Reach me **thisisabhimaurya@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
