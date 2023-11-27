@@ -9,7 +9,7 @@
 
 - 👨‍🎓 Computer Science undergrad at NIET,Greater noida
   
-- 🌱 Currently learning **Java,python**
+- 🌱 Currently learning **Java,Blender**
 
 - ⚡ I like to code at night
 
