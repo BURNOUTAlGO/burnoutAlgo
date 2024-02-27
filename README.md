@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-# <img src=" .\Users\thisi\Downloads\ABHINAV MAURYA.png" width="100%"/>
+# <img src=".\Users\thisi\Downloads\ABHINAV MAURYA.png" width="100%"/>
 <h1 align="center">Hi 👋, I'm Abhinav Maurya</h1>
 <h3 align="center">Currently in a buildout mode</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
