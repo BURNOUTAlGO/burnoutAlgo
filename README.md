@@ -13,7 +13,7 @@
 
 - ⚡ I like to code at night
 
-- 😴 sleep - code - repeat
+- 😴 I could'nt sleep coz of bug
 
 - 📫 Reach me **thisisabhimaurya@gmail.com**
 
