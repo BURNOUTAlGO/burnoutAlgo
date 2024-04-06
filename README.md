@@ -9,11 +9,11 @@
 
 - 👨‍🎓 Computer Science undergrad at NIET,Greater noida
   
-- 🌱 Currently learning **Java,Blender**
+- 🌱 Currently learning **App Dev,Java**
 
 - ⚡ I like to code at night
 
-- 😴 I could'nt sleep coz of bug
+- 😐 could'nt sleep coz of bug
 
 - 📫 Reach me **thisisabhimaurya@gmail.com**
 
