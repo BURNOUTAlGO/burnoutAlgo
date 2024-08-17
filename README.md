@@ -1,5 +1,5 @@
 ![logo](https://github.com/BURNOUTAlGO/burnoutAlgo/blob/main/ABHINAV%20MAURYA.png)
-![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Anubhav+Singh!+%F0%9F%91%8B)
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Abhinav+Maurya!+%F0%9F%91%8B)
 
 <h1 align="center">Hi 👋, I'm Abhinav Maurya</h1>
 <h3 align="center">Currently in a buildout mode</h3>
