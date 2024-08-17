@@ -1,4 +1,6 @@
 ![logo](https://github.com/BURNOUTAlGO/burnoutAlgo/blob/main/ABHINAV%20MAURYA.png)
+<h1 align ="centre">(https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Abhinav+Maurya!+%F0%9F%91%8B)</h1>
+
 <h1 align="center">Hi 👋, I'm Abhinav Maurya</h1>
 <h3 align="center">Currently in a buildout mode</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
