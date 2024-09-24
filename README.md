@@ -37,4 +37,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burnoutalgo&" alt="burnoutalgo" /></p>
 
-![snake gif](https://github.com/BURNOUTALGO/burnoutAlgo/blob/output/github-contribution-grid-snake.gif)
