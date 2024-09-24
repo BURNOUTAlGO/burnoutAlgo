@@ -1,22 +1,7 @@
 ![logo](https://github.com/BURNOUTAlGO/burnoutAlgo/blob/main/ABHINAV%20MAURYA.png)
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Abhinav+Maurya!+%F0%9F%91%8B)
 
-    <div style="white-space: nowrap; overflow: hidden; box-sizing: border-box;">
-        <p style="display: inline-block; animation: scroll-left 10s linear infinite; margin: 0;">
-            This is scrolling text!
-        </p>
-    </div>
-
-    <style>
-        @keyframes scroll-left {
-            0% {
-                transform: translateX(100%);
-            }
-            100% {
-                transform: translateX(-100%);
-            }
-        }
-    </style>
+    
 
 
 <h3 align="center">Currently in a buildout mode</h3>
@@ -28,7 +13,7 @@
 
 - 👨‍🎓 Computer Science undergrad at NIET,Greater noida
   
-- 🌱 Currently learning **App Dev,Java**
+- 🌱 Currently learning **Web Dev,Java**
 
 - ⚡ I like to code at night
 
