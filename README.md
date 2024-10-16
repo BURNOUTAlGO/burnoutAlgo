@@ -5,7 +5,7 @@
 
 
 <h3 align="center">Currently in a buildout mode</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burnoutalgo&label=Profile%20views&color=0e75b6&style=flat" alt="burnoutalgo" /> </p>
 
