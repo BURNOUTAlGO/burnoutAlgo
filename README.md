@@ -38,5 +38,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burnoutalgo&" alt="burnoutalgo" /></p>
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/bbefa799786133.5efa9bf3d1b49.gif">
+
 
